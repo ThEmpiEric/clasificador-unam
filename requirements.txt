@@ -1,0 +1,13 @@
+joblib==1.5.0
+matplotlib==3.6.3
+nltk==3.9.1
+numpy==1.24.0
+os
+pandas==1.5.3
+re
+sklearn
+torch==2.0.1
+tqdm==4.64.0
+transformers
+unicodedata
+wordcloud==1.9.2
